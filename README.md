@@ -1,10 +1,15 @@
 Hi, I'm Twinkle Singh 👋
 
-MCA Student | Full-Stack Web Developer
+🚀 MCA Student | Full-Stack Developer | React.js | Node.js 
 
-I am an MCA student and aspiring full-stack developer with experience building practical web applications using React, Node.js, Express.js, MySQL, and MongoDB. I enjoy learning new technologies, solving problems, and developing secure, user-friendly applications.
+Passionate about developing secure and user-friendly web applications. I work with React, Node.js, Express.js, MySQL, and MongoDB, with a strong interest in frontend development, REST API development, and database design.
 
-🔭 I’m currently working on Roomie2Homie, a roommate-matching and social networking platform.
-🌱 I’m currently improving my MERN stack, TypeScript, REST API, and database skills.
+🔹 **Tech Stack:** React.js, JavaScript, Node.js, Express.js, MySQL, MongoDB
+
+🔹 **Interests:** Full-Stack Development, Problem-Solving, REST APIs, Database Design
+
+🔹 **Projects:** UniRide – Student Carpooling Platform, Roomie2Homie – Roommate-Matching Platform
+
+💡 Continuously learning, improving my skills, and building practical web applications.
 💼 I’m looking for software development internships and entry-level opportunities.
 📍 Based in India.
